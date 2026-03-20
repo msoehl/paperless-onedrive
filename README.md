@@ -40,8 +40,8 @@ The script will guide you through the entire setup interactively.
 
 ## Documentation
 
-- 🇬🇧 [English Guide](docs/paperless-onedrive-en.md)
-- 🇩🇪 [Deutsche Anleitung](docs/paperless-onedrive-de.md)
+- 🇬🇧 [English Guide](paperless-onedrive-en.md)
+- 🇩🇪 [Deutsche Anleitung](paperless-onedrive-de.md)
 
 ---
 
